@@ -11,11 +11,20 @@ public class EstructurasEstaticas {
         variables numéricas
         */
 
-        int Suma = a + b;
-        int Resta = a - b;
+        int suma = a + b;
+        int resta = a - b;
+        int division = a / b;
+        int multiplicacion = a*b;
 
-        System.out.println(Suma);   
-        System.out.println(Resta);   
-             
+        System.out.println(suma);
+        System.out.println(resta);
+        System.out.println(division);
+        System.out.println(multiplicacion);
+        
+        //Long c = 30 000 000 000 000;
+
+        //double division_double = a/b;
+
+        //Optional Division 
     }
 }
