@@ -32,6 +32,16 @@ public class EstructurasEstaticas {
 
         String palabra = "Hola";
         
+        char h = 'h';
+        char o = 'o';
+        char l = 'l';
+        char a1 = 'a';
+
+        //String suma_letras = h + o + l + a1;
+        //System.out.println(suma_letras);
+
+        Boolean e = true;
+        Boolean f = false;
 
     }
 }
