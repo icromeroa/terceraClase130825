@@ -25,6 +25,13 @@ public class EstructurasEstaticas {
 
         //double division_double = a/b;
 
-        //Optional Division 
+        //Optional division_2 = a/b;
+        //System.out.println(division_2);
+
+        char c = 'A'; //Entre comillas simples.
+
+        String palabra = "Hola";
+        
+
     }
 }
